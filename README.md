@@ -1,5 +1,7 @@
 # TP-PDS2
 Trabalho em grupo na disciplina de PDS2
 Este é um trabalho prático da disciplina de PDS2 no qual os alunos devem desenvolver um sistema completo de temas sugeridos pelo professor, a partir dos conhecimentos adquiridos durante a disciplina. O grupo em questão decidiu desenvolver o sistema do jogo de cartas UNO muito popular entre os jovens e de fácil compreensão.
+
+
 O jogo envolve um total de 63 cartas: 7 cartas azuis, 7 cartas amarelas, 7 cartas verdes, 7 cartas vermelhas, 8 cartas “+2” (duas de cada cor), 8 cartas “bloqueio” (duas de cada cor), 8 cartas “inverter” (duas de cada cor), 6 cartas pretas “unidades de medidas”, 2 cartas coringas pretas “+4”, e 3 cartas coringas pretas “mudança de cor”. Nesse sentido, cada jogador inicialmente com 07 cartas pode jogar, na sua vez, uma carta de mesma cor, ou do mesmo prefixo, ou que contenha uma unidade embutida (regra para as cartas pretas), respeitando a última carta jogada na mesa. Além disso, cartas especiais (“inverte”, “bloqueio” e “+2”) podem ser jogadas quando na mesa estiver uma carta da mesma cor ou do mesmo símbolo. Diante disso, quando o jogador não tiver nenhuma carta que atenda aos critérios da rodada para lançar, este deverá comprar uma carta. Destarte, quando o jogador possuir somente uma carta em mãos ele deve sinalizar esse episódio e o jogo termina quando um jogador descartar todas as suas cartas.  
 Por fim, os requisitos funcionais desejados para o nosso sistema, também conhecido como User Stories, estão anexados em um PDF no repositório para leitura.
